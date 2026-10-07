@@ -1,0 +1,10 @@
+# SDK de ejecución de mercado (Simulado/Producción)
+arquants==1.4.2
+
+# Análisis de datos y cálculo numérico
+pandas==2.2.2
+numpy==1.26.4
+
+# Utilidades de entorno y testing
+python-dotenv==1.0.1
+pytest==8.2.1
